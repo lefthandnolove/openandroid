@@ -1,8 +1,8 @@
 openandroid
-===========
-------------------
+==========
+
 introduction:
-----------------------
+------------------
 
 This is an app supposed to be solve below **headaches** to me:
 
